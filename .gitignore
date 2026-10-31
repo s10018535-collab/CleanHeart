@@ -1,0 +1,7 @@
+node_modules/
+.env*
+!.env.example
+*.tsbuildinfo
+python_app/.venv/
+python_app/__pycache__/
+python_app/*.db
