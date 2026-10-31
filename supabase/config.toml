@@ -1,0 +1,2 @@
+[functions.officer-api]
+verify_jwt = false
